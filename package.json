@@ -1,0 +1,16 @@
+{
+  "name": "alacritty-to-winterm",
+  "version": "1.0.0",
+  "description": "Converts alacritty yml color files to Windows Terminal json schemes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sean Spradlin",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "js-yaml": "^3.13.1",
+    "mocha": "^6.2.2"
+  }
+}
